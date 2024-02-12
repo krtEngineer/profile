@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Javascript, NodeJs**
 
-- 📫 How to reach me **<a href="https://krt-portfolio-v2024-00.netlify.app/">website</a>** **krt.engineer@gmail.com**
+- 📫 How to reach me **<a href="https://krt-portfolio-v2024-00.netlify.app/">website</a>** or mail me on **kushagrarajtiwari@outlook.com**
 
 - ⚡ Fun fact **I love music and biking.**
 
