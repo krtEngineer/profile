@@ -9,6 +9,9 @@
 
 - ⚡ Fun fact **I love music and biking.**
 
+![Profile Views](https://komarev.com/ghpvc/?username=krtEngineer&color=blue)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kushagra-raj-tiwari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kushagra-raj-tiwari/" height="30" width="40" /></a>
