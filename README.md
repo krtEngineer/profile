@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kushagra Raj Tiwari</h1>
 <h3 align="center">A passionate software engineer from Bharat (India)</h3>
 
-- 🌱 I’m currently learning **Javascript, Typescript, NodeJs, React, SQL**
+- 🌱 I’m currently learning **Java, Javascript, Typescript, NodeJs, React, SQL and Bash**
 
-- 💬 Ask me about **Javascript, NodeJs**
+- 💬 Ask me about **Java, Javascript, NodeJs**
 
 - 📫 Reach me at **<a href="https://kurati.dev">website</a>** or mail me on **kushagrarajtiwari@outlook.com**
 
